@@ -36,7 +36,7 @@
 "Zpw-Di-X7C.text" = "🍕";
 
 /* Class = "UIButton"; normalTitle = "abc"; ObjectID = "act-DJ-aXh"; */
-"act-DJ-aXh.normalTitle" = "ノート";
+"act-DJ-aXh.normalTitle" = "メモ";
 
 /* Class = "UINavigationItem"; title = "Add/Edit Carb Entry"; ObjectID = "bM2-yI-YmX"; */
 "bM2-yI-YmX.title" = "糖質量を追加・編集";

@@ -14,7 +14,7 @@
 "com.loudnate.CarbKit.deleteCarbEntryUnownedErrorDescription" = "認証が拒否されました";
 
 /* The error recovery suggestion when attempting to delete a sample not shared by the current app */
-"com.loudnate.carbKit.sharingDeniedErrorRecoverySuggestion" = "このサンプルはHealthアプリから削除できます";
+"com.loudnate.carbKit.sharingDeniedErrorRecoverySuggestion" = "このサンプルはヘルスケアアプリから削除できます";
 
 /* Generic pump error description */
 "Communication Failure" = "通信エラー";
