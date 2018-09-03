@@ -17,7 +17,7 @@
 "carb-entry-title-edit" = "Modifica carboidrati Assunti";
 
 /* Carb entry section footer text explaining absorption time */
-"Choose a longer absorption time for larger meals, or those containing fats and proteins. This is only guidance to the algorithm and need not be exact." = "Scegli un tempo di assorbimento piu lungo per i pasti piu grandi o quelli contenenti grassi e proteine. Questa e solo una guida all’algoritmo e non e necessario che sia esatta.";
+"Choose a longer absorption time for larger meals, or those containing fats and proteins. This is only guidance to the algorithm and need not be exact." = "Scegli un tempo di assorbimento piu lungo per i pasti piu abbondanti o quelli contenenti grassi e proteine. Questo è solo un suggerimento per l’algoritmo e non è necessario che sia esatto.";
 
 /* The format string describing the date of a COB value. The first format argument is the localized date. */
 "com.loudnate.CarbKit.COBDateLabel" = "a %1$@";
@@ -98,10 +98,10 @@
 "The maximum absorption time is %@" = "Il tempo di assorbimento massimo e %@";
 
 /* Alert body displayed for quantity greater than max (1: maximum quantity in grams) */
-"The maximum allowed amount is %@ grams" = "La massima quantita permessa %@ grams";
+"The maximum allowed amount is %@ grams" = "La massima quantita permessa è %@ grams";
 
 /* The schedule table view header describing the configured time zone difference from the default time zone. The substitution parameters are: (1: time zone name)(2: +/-)(3: time interval) */
-"Times in %1$@%2$@%3$@" = "Times in %1$@%2$@%3$@";
+"Times in %1$@%2$@%3$@" = "Orario in %1$@%2$@%3$@";
 
 /* The unit string for units per hour */
 "U/hour" = "U/ora";
