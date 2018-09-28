@@ -11,10 +11,10 @@
 "Cancel" = "キャンセル";
 
 /* The title of the view controller to create a new carb entry */
-"carb-entry-title-add" = "糖質の記入を追加";
+"carb-entry-title-add" = "糖質エントリを追加";
 
 /* The title of the view controller to edit an existing carb entry */
-"carb-entry-title-edit" = "糖質の記入を編集";
+"carb-entry-title-edit" = "糖質エントリを編集";
 
 /* Carb entry section footer text explaining absorption time */
 "Choose a longer absorption time for larger meals, or those containing fats and proteins. This is only guidance to the algorithm and need not be exact." = "量の多い食事や脂質やたんぱく質を含んだ食事には長い吸収時間を選んでください。これはアルゴリズム設定のためのもので、正確である必要はありません。";
@@ -74,7 +74,7 @@
 "Other" = "その他";
 
 /* The section title of glucose overrides */
-"Overrides" = "無効にする";
+"Overrides" = "オーバーライド";
 
 /* Title for the pre-meal override range */
 "Pre-Meal" = "食前";
@@ -104,10 +104,10 @@
 "Times in %1$@%2$@%3$@" = "時間帯 %1$@%2$@%3$@";
 
 /* The unit string for units per hour */
-"U/hour" = "U/時";
+"U/hour" = "U/hr";
 
 /* The unit string for units */
-"Units" = "単位";
+"Units" = "U";
 
 /* The default title to use when an entry has none */
 "Unknown" = "不明";
